@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_18 Get Employee Contact Detail Invalid Id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfcf51c1-de54-4de4-85a7-3dec2fd3be8f</testCaseGuid>
+</TestCaseEntity>

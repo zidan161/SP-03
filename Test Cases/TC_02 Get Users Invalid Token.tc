@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02 Get Users Invalid Token</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ded55a63-7324-4a66-a5f0-89b467f59a34</testCaseGuid>
+</TestCaseEntity>

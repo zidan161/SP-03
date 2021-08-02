@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_27 Delete Employee Work Experience Invalid seqId</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a30572d-7e59-4148-80c4-d271aca8b5a8</testCaseGuid>
+</TestCaseEntity>

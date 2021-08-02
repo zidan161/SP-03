@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_26 Delete Employee Work Experience Invalid Id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e82b1ff2-2211-4bf6-acd9-bc49edd571e8</testCaseGuid>
+</TestCaseEntity>

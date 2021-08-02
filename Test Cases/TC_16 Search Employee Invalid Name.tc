@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_16 Search Employee Invalid Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9964b95-5790-4278-859a-44dcd73320e9</testCaseGuid>
+</TestCaseEntity>
